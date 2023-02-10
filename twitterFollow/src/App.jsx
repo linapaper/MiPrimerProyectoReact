@@ -10,13 +10,13 @@ const users = [
     isFollowing: true,
   },
   {
-    userName: 'HelmerTorrez',
-    name: 'Helmer Torrez',
+    userName: 'iGirliCode',
+    name: 'Karoli.js',
     isFollowing: false
   },
   {
-    userName: 'tswiftperu',
-    name: 'Taylor Swift Perú',
+    userName: 'viviana_tes',
+    name: 'Viviana',
     isFollowing: true
   },
   {
