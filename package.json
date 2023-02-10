@@ -1,0 +1,20 @@
+{
+  "name": "miprimerproyectoreact",
+  "version": "1.0.0",
+  "description": "Este es un repositorio con mis primeros pasos en React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linapaper/MiPrimerProyectoReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linapaper/MiPrimerProyectoReact/issues"
+  },
+  "homepage": "https://github.com/linapaper/MiPrimerProyectoReact#readme"
+}
